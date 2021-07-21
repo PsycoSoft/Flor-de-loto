@@ -14,5 +14,5 @@
 <p><b> Metodología de trabajo:  </b>Scrum</p>
 
 
-<a href="https://flordelotoestetica.com/">Ver en Playstore</a>
+<a href="https://flordelotoestetica.com/">Ver en la web</a>
 
